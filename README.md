@@ -1,1 +1,6 @@
-# Amazon_Sentiment_Analysis
+Technologies used:
+➢ nltk
+➢ textblob
+➢ vaderSentiment
+➢ wordcloud
+➢ pandas
